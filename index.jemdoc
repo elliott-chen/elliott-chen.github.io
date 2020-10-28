@@ -16,15 +16,15 @@ Address: 2145 Sheridan Road, Evanston, IL, 60660
 
 
 == About me 
-I am a fifth year Ph.D. student at Department of Industrial Engineering and Management Sciences, Northwestern University, advised by Prof. [https://zhaoranwang.github.io  Zhaoran Wang] and Prof. [http://www.columbia.edu/~jd2736/ Jing Dong]. I work on the interface of operations research, machine learning, and applied econometrics. My current research focuses on developing efficient algorithms and data-driven approaches to facilitate better decision making in operations management. Previously, I obtained my Bachelor degree in Statistics from [https://en.ustc.edu.cn University of Science and Technology of China]. 
+I am a fifth year Ph.D. student at Department of Industrial Engineering and Management Sciences, Northwestern University, advised by Prof. [https://zhaoranwang.github.io  Zhaoran Wang] and Prof. [http://www.columbia.edu/~jd2736/ Jing Dong]. My research interests are at the interface of operations research, machine learning, and applied econometrics. Currently, my research primarily focuses on developing advanced algorithms with provable efficiency to facilitate better operational decision making. I also study consumer behavior via machine learning and econometrics tools and aim to understand the implications of customer behavior on operational strategies. Previously, I obtained my Bachelor degree in Statistics from [https://en.ustc.edu.cn University of Science and Technology of China]. 
 
 == Research 
 
 === Working Papers: 
 
-Wang Y.\*, *Chen Y.*\*, Fang E., Wang Z. and Li R., [https://arxiv.org/pdf/2009.02003.pdf Nearly Dimension-Independent Sparse Linear Bandit over Small Action Spaces via Best Subset Regression], /under review at Journal of the American Statistical Association/ 
+Wang Y.\*, *Chen Y.*\*, Fang E., Wang Z. and Li R., [https://arxiv.org/pdf/2009.02003.pdf Nearly Dimension-Independent Sparse Linear Bandit over Small Action Spaces via Best Subset Selection], /under review at Journal of the American Statistical Association/ 
    
-*Chen Y.*, Dong J. and Wang Z., A Primal-dual Approach to Constrained Markov Decision Processes with Application to Inventory and Queueing Control, /in preparation for submission/
+*Chen Y.*, Dong J. and Wang Z., [https://www.dropbox.com/s/bec2n43ee1a7jwf/primal_dual.pdf?dl=0  A Primal-dual Approach to Constrained Markov Decision Processes], /in preparation for submission/
 
 *Chen Y.*, Dong J. and Zheng F., Understanding Consumer Search Behavior on Large-scale Retail Platform, /working in progress/ 
 
